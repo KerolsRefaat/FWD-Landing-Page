@@ -42,9 +42,9 @@ Project's Functionality:
 
 ## Project Strategy
 
-- [x] Implementing dynamic Navba using Js & JQuery.
+- [x] Implementing dynamic Navbar using Js & JQuery.
 - [x] Created function to scroll to sections.
-- [x] Created fucntion to set an active state to Navbar links and Sections
+- [x] Created function to set an active state to Navbar links and Sections
 - [x] MBL View Responsive
 
 
