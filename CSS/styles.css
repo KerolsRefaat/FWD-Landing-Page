@@ -229,3 +229,17 @@ section.your-active-class .landing__container::after {
 		           rotate(-360deg);
 	}
 }
+
+/*Responsive Media Queries */
+
+@media (max-width: 576px) { 
+    /*changing navbar li font size*/
+    .navbar__menu .menu__link{
+        font-size: 14px;
+    }
+
+    /*adding margin top cause the h1 title is hidden under the navbar in MBL*/
+    h1{
+        margin-top: 2.5em;
+    }
+ }
